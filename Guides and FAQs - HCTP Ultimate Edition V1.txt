@@ -1,0 +1,139 @@
+HCTP Ultimate Edition V1 (Free) - Guides & FAQs
+
+Thank you for downloading the HCTP Ultimate Edition V1!
+I hope you enjoy playing it to the fullest.
+Below is the link and password to access the official guides and FAQs for this mod.
+
+Access the Guides & FAQs:
+[https://a7med7assan5.news.blog/guides-and-faqs-hctp-ultimate-edition-v1]
+
+Password: hCtP-ULT!m@t3_V1-FAQs
+
+---
+
+Support My Work:
+If you appreciate the effort, time, and hard work I've put into creating these mods, your support is greatly appreciated.
+Donations will help me continue improving and creating more mods for the community.
+If you’d like to contribute, you can:
+Donate via PayPal: [https://www.paypal.me/a7med7assan5]
+Subscribe on Patreon: [https://www.patreon.com/a7med7assan5]
+Thank you for your support, and enjoy the mod!
+
+---
+
+HCTP Ultimate Edition – Installation Guide
+
+Requirements (Important)
+- Original WWE SmackDown! Here Comes The Pain disc
+- PCSX2 Nightly (latest recommended)
+- Two free tools only (see below)
+- Always use your own copy of the game.
+- Redistribution of the ISO is not allowed.
+
+Required Software (Free)
+OS         Extract .7z                       Create ISO
+Windows    7-Zip                             ImgBurn
+macOS      Keka / The Unarchiver             AnyToISO / Disk Utility
+Linux      p7zip / Ark                       genisoimage / mkisofs
+
+Installation Notes:
+- All software is free.
+- macOS users can use Disk Utility or AnyToISO if they prefer GUI.
+- Linux users can install p7zip and genisoimage via their package manager.
+- Important: I only have Windows, so I have not tested this mod on macOS or Linux.
+- If you use macOS or Linux, it is recommended that you first test the process using your original HCTP disc: create an ISO from its folders and files, then try to run it in PCSX2 Nightly.
+- This ensures your system will successfully boot the game before you attempt to add the Ultimate Edition mod.
+
+Step 1: Copy the Original Game Files
+- Insert your original HCTP disc into an external DVD drive connected to your computer.
+  (If you happen to have an old PC or laptop with a built-in DVD drive, you can use that instead.)
+- Open the disc and copy ALL files and folders from it.
+- Create a new folder anywhere on your computer and name it exactly:
+  HCTP Ultimate Edition
+- Paste all copied disc contents into this folder.
+
+Step 2: Extract the Ultimate Edition Mod Files
+- Download the HCTP Ultimate Edition .7z file.
+- Extract it using the appropriate software for your OS:
+  - Windows: 7-Zip
+  - macOS: Keka or The Unarchiver
+  - Linux: p7zip / Ark / File Roller
+- When prompted, enter the password provided for your version.
+- After extraction, you will see 4 folders and 1 text file:
+  - Folders: cheats, FILES, memcards, PS2
+  - Text file: Guides and FAQs - HCTP Ultimate Edition V1.txt
+- The files you need to copy and paste are inside the FILES folder.
+- Open the FILES folder, select all its contents, and copy them.
+- These are the files that will replace the original files in the next step.
+- Do not copy the other folders or the text file.
+
+Step 3: Replace the Original Game Files
+- Open your previously created folder: HCTP Ultimate Edition
+- Paste the copied mod files into it.
+- When prompted, select: Replace files
+- All folders are already arranged correctly. No manual editing required.
+
+Step 4: Create the ISO Image
+- Windows (ImgBurn)
+  - Open ImgBurn
+  - Select: Create image file from files/folders
+  - Source:
+    - Click Browse for a folder
+    - Select: HCTP Ultimate Edition
+  - Destination:
+    - Click Browse for a file
+    - Name the ISO: HCTP Ultimate Edition.iso
+  - Click Build → Click Yes
+  - Set disc labels:
+    - ISO9660 Label: HCTP_ULTIMATE_EDITION
+    - UDF Label: HCTP Ultimate Edition
+  - Click OK, then OK again and wait until the ISO creation finishes.
+- macOS (AnyToISO or Disk Utility)
+  - AnyToISO:
+    - Open AnyToISO → select Folder to ISO
+    - Choose the folder HCTP Ultimate Edition
+    - Name the ISO: HCTP Ultimate Edition.iso
+    - Start conversion
+  - Disk Utility:
+    - Open Disk Utility → File → New Image → Image from Folder
+    - Select HCTP Ultimate Edition
+    - Format: DVD/CD Master
+    - Save → rename .cdr to .iso if needed.
+- Linux (genisoimage / mkisofs)
+  - Open terminal.
+  - Run:
+    genisoimage -o "HCTP Ultimate Edition.iso" -V HCTP_ULTIMATE_EDITION -J -R "HCTP Ultimate Edition"
+
+Step 5: Run the Game in PCSX2 Nightly
+- Open PCSX2 Nightly
+- Go to: System → Start File
+- Select: HCTP Ultimate Edition.iso
+
+Step 6: Set Up the Memory Card
+- Open PCSX2 Nightly → go to: Settings → Memory Cards → Folder
+  - This shows the folder where memory cards should be placed.
+- Copy the memcards folder provided with the mod into that directory.
+- In PCSX2 Nightly, right-click:
+  HCTP Ultimate Edition V1 (Tier 1) - a7med7assan5
+- Select: Use for Slot 1
+
+Step 7: Enable Cheats
+- Open PCSX2 Nightly → go to: Settings → Folders → Cheats Directory
+  - This shows the folder where cheats should be placed.
+- Copy the cheats folder provided with the mod into that directory.
+- Open PCSX2 Nightly → go to: Settings → Emulation
+- Check: Enable Cheats
+
+Alternative Methods / No PC Available
+- Virtual Machine (VM)
+  - On macOS or Linux, you can install Windows inside VirtualBox or another VM.
+  - Then follow the standard Windows steps: copy original disc files, replace mod files, and create the ISO.
+- Cyber Café or Friend’s PC
+  - Use any Windows PC to perform the process.
+  - Copy your original HCTP disc files, replace with the mod files, and create your own ISO there.
+  - Then transfer the ISO and memory cards back to your system.
+- Important:
+  - You must create the ISO yourself from your own original HCTP disc.
+  - No pre-made ISO is provided with this mod.
+  
+---
