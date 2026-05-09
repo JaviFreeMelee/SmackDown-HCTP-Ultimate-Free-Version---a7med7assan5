@@ -1,0 +1,44 @@
+gametitle=WWE SmackDown! - Here Comes the Pain!
+comment= HCTP "ECW Match - ECW_Velocity [NTSC]" Hack by a7med7assan5.
+
+//**************************************************************
+//--Rules--
+//Choose a match, and select Velocity Arena to play.
+
+//This match will have unlimited weapons under the ring.
+//4 tables , a ladder, chairs, and the backstage area will be open.
+
+//The match can be won Anywhere.
+
+//------------------------------------------------------------
+//ECW Match
+//------------------------------------------------------------
+//Joker (ECW/Velocity Arena)
+patch=1,EE,E0090808,extended,004922C0
+
+//Infinite Weapons Under Ring
+patch=1,EE,20527A00,extended,00000000
+
+//4 Tables
+patch=1,EE,201FAD84,extended,0C07E7EC
+patch=1,EE,201FAD8C,extended,00000000
+
+///TLC Match: ON
+patch=1,EE,004920D8,extended,00000001
+
+//Backstage (Indicators): ON
+patch=1,EE,004920CD,extended,00000001
+
+//Anywhere Falls: ON
+patch=1,EE,004920C1,extended,00000002
+
+//DQs: OFF
+patch=1,EE,004920DB,extended,00000000
+
+//Ring Out: ON
+patch=1,EE,004920C4,extended,00000000
+
+//Ring Out Count: OFF
+patch=1,EE,004920C5,extended,00000000
+
+//**************************************************************
