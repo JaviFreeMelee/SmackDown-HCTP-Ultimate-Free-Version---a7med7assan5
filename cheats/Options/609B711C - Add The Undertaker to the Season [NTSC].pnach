@@ -1,0 +1,13 @@
+gametitle=HCTP Ultimate Edition V1 - a7med7assan5
+comment= HCTP "Add Both Undertakers to the Season [NTSC]" Hack by tokidoim & Chinhouse, pnach by a7med7assan5.
+
+//**************************************************************
+//Wrestlers' Season Entry Modifiers
+//------------------------------------------------------------
+//03 - Undertaker (Enable)
+//patch=1,EE,004C1507,extended,00000000
+
+//72 - The Undertaker (Enable)
+patch=1,EE,004C7837,extended,00000000
+
+//**************************************************************
