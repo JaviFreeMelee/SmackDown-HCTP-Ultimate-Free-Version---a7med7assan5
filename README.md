@@ -1,5 +1,9 @@
 # SmackDown-HCTP-Ultimate-Free-Version---a7med7assan5
 
+See what's new in this mod here:
+
+https://www.youtube.com/watch?v=RFrvLv5LmYk&t=601s
+
 Patch HCTP USA iso with xdelta patcher:
 
 https://youtu.be/H6P7N4po1hM?si=iUU3tbnIpvDh219e
