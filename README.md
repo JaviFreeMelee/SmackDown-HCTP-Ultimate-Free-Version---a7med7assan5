@@ -10,3 +10,7 @@ https://youtu.be/H6P7N4po1hM?si=iUU3tbnIpvDh219e
 https://github.com/marco-calautti/DeltaPatcher
 https://hack64.net/tools/patcher.php
 https://www.marcrobledo.com/RomPatcher.js/
+
+Add cheats:
+
+https://www.youtube.com/watch?v=X8Ufm8Ju_gM
